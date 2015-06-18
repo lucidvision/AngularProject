@@ -1,0 +1,10 @@
+/home/brian/.rvm/rubies/ruby-1.9.3-p551/bin/ruby -r ./siteconf20150616-25721-iuxvo0.rb extconf.rb 
+creating Makefile
+
+make  clean
+
+make
+make: Nothing to be done for `all'.
+
+make  install
+installing default libraries
